@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Florian Günther"]
   s.email       = ["mail@gee-f.de"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/florianguenther/controller_observer"
   s.summary     = %q{Observe your ActionControllers in rails}
   s.description = %q{Observers for ActionController similar to ActiveRecord Observers}
 
